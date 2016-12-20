@@ -1,1 +1,2 @@
-text
+text create a vi edit info
+我是中文
